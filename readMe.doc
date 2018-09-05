@@ -1,0 +1,16 @@
+CPS 706 CDN ReadMe
+
+1.	Compile HisCinema web server by going into the directory first: cd hisCinema,
+	then compile the file: javac hisCinema.java and lastly run the file by typing: java hisCinema
+	
+2.	Compile LocalDNS, Record, and HisCinemaDNS by going into the directoy first: cd main
+	then compile each file: javac LocalDNS.java Record.java HisCinemaDNS.java 
+	and lastly run the files except Record by: java LocalDNS and java HisCinemaDNS
+	
+3.	Compile HerDNS by going into the directory first: cd herDNS
+	then compile the file: javac herDNS.java and lastly run the file by: java herDNS
+	
+4. 	Compile Client and HttpResponse by going into the directory first: cd client
+	then compile the file by: javac Client.java HttpResponse.java
+	and lastly run the files by: java Client and java HttpResponse. Then you will be prompted to enter a number between 1 to 4.
+	Enter the number and then the program should completely run. 
